@@ -2030,7 +2030,7 @@ input, select, textarea {
 		display: block;
 		font-size: 0.9em;
 		font-weight: 700;
-		margin: 0 0 1em 0;
+		margin: 0 0 2em 0;
 	}
 
 	input[type="text"],
@@ -2155,7 +2155,7 @@ input, select, textarea {
 		float: left;
 		margin-right: -2em;
 		opacity: 0;
-		width: 1em;
+		width: 2em;
 		z-index: -1;
 	}
 
